@@ -1,0 +1,21 @@
+{
+    "name": "Bhakti Sagar",
+    "short_name": "Bhakti Sagar",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHOi2m0D-MVSirOKsyS2vKvQFJzLYxX2v_kHYEaR7Zd8dOtQUfKK6qfrdMdJN3TeE49-Ael5pLPWugA5tDGT5ZWftTWhKNF4zRMvfY81QNNM8pIo46G0J_WDLFfvxR0-78KQw3Ackfi-pSf2vdIiZDc8xvnwin-Ug5ECwVU8iT8HTWsBH7yT88Exj/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGoYJgaEjDlV_AfGbrLwuzko65N0NWKzDIin0F0QN_tuMnuU4Kb_5pVEkt2enlJCRdPuPvmnsJkIjmosDzjyJYuNNU81aJHlwEDouK0Do4gjdLbIJgf6jmJwx2EvW2n3c9irZBW_a2KuQLW6rSDYsgUmu6XzJiynT_vcDC6TeaICu3cIIujcU2Cuq/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+    "start_url": "https://bhaktisagar.coolwhatsgrouplinks.com/"
+}
