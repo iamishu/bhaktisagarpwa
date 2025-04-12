@@ -1,14 +1,14 @@
 {
-    "name": "Gyan Sagar",
-    "short_name": "Gyan Sagar",
+    "name": "Bhakti Ka Marg",
+    "short_name": "Bhakti Ka Marg",
     "icons": [
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3zNfhRXWSnGoergrau8pptKmnQK-y4Iz3Y7u2h3iABy0jTE6o9enmjWA6LGXu22_Lys_63F4GfAMVSn8OQct4MgPM-PVxfnlWwBXF-m_JWjslqtlCPRs_3V4v5nLeJZtf0gM9IRQbJL57zIp0L6ru2itcfKQaGt9sna3jFE2l5S-pmOiuUw26UvZ7/s1600/icon.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-PuPpB1iyLnNtlbAPOKhHZqwXnnej0uSWagqZwUhxxQNGRIphvX0jOWaz-FtX3dqW9ibrXK-tRYBTXS_3N9B5oKjbUNZ6Esn18hDyeR38DJnDoSIOEXPGyAytv4N_oAfLK9MYVlytTcmHB3xecvG5VPVzAam7ettaYZ5Fb9HPAy82fGyos6z_GRy5Z6NK/s16000/2.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3zNfhRXWSnGoergrau8pptKmnQK-y4Iz3Y7u2h3iABy0jTE6o9enmjWA6LGXu22_Lys_63F4GfAMVSn8OQct4MgPM-PVxfnlWwBXF-m_JWjslqtlCPRs_3V4v5nLeJZtf0gM9IRQbJL57zIp0L6ru2itcfKQaGt9sna3jFE2l5S-pmOiuUw26UvZ7/s1600/icon.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-PuPpB1iyLnNtlbAPOKhHZqwXnnej0uSWagqZwUhxxQNGRIphvX0jOWaz-FtX3dqW9ibrXK-tRYBTXS_3N9B5oKjbUNZ6Esn18hDyeR38DJnDoSIOEXPGyAytv4N_oAfLK9MYVlytTcmHB3xecvG5VPVzAam7ettaYZ5Fb9HPAy82fGyos6z_GRy5Z6NK/s16000/2.png",
             "sizes": "512x512",
             "type": "image/png"
         }
@@ -17,5 +17,5 @@
     "background_color": "#4e0100",
     "display": "standalone",
     "prefer_related_applications": false,
-    "start_url": "https://gyansagar.coolwhatsgrouplinks.com/"
+    "start_url": "https://www.bhaktikamarg.com/"
 }
